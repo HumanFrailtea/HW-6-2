@@ -1,4 +1,17 @@
-﻿using System;
+﻿/// Homework No.__ Exercise No.__
+/// File Name:     HW6-2.sln
+/// @author:       Upendra Samaranayake
+/// Date:          Sept. 1, 2015
+///
+/// Problem Statement: Reverse the contents of the array.
+///    
+/// Overall Plan (step-by-step, how you want the code to make it happen):
+/// Create a 2nd index.
+/// Have the 2nd index read in the numbers backwards by subtracting one and decrementing.
+
+///
+
+using System;
 
 
 namespace ReversingAnArray
